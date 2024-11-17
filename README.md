@@ -52,3 +52,15 @@
 
  export const Component;
  import const Component;
+
+
+ # REact Hooks
+ (Normal Js utility function)
+
+ 1. usestate = superpowerful state variable in react
+ 2. useeffect
+
+
+ # Two types of routing
+ 1. server side routing
+ 2. client side routing
