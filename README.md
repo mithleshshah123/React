@@ -64,3 +64,29 @@
  # Two types of routing
  1. server side routing
  2. client side routing
+
+
+
+ # Redux ToolKit
+  
+   - Install @reduxjs/toolkit and react-redux
+   - Build our store
+   - Connect our store our app
+    - Slice(cart slice)
+    - dispatch (action)
+     -selector
+
+
+ # Types of testing -
+  1. Unit TEsting
+  2. Integration testing
+  3. End to end Tesing
+
+ # SEtting up testing library
+  1. Install RAEct Twsting Library
+  2. Intalled jest
+  3. Installed Babel dependencies
+  4. config babel
+  5. Config parcel config file disable default babel trapialtion
+  6. npx jest --init
+  7. Install jsdom Library
